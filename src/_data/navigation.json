@@ -8,7 +8,7 @@
     {
       "text": "Work",
       "url": "/work",
-      "external": true
+      "external": false
     },
     {
       "text": "Example Contact Page",
