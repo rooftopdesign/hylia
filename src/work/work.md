@@ -6,6 +6,7 @@ tags:
   - demo-content
   - blog
   - media
+layout: layouts/default.njk
 ---
  <!--more-->
 
