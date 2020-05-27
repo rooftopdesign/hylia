@@ -15,12 +15,12 @@
       "url": "/Leistungen"
     },
     {
-      "text": "Kontakt",
-      "url": "/kontakt"
-    },
-    {
       "text": "Über uns",
       "url": "/about"
+    },
+    {
+      "text": "Kontakt",
+      "url": "/kontakt"
     }
   ]
 }
