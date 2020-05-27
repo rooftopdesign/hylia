@@ -17,6 +17,10 @@
     {
       "text": "Kontakt",
       "url": "/kontakt"
+    },
+    {
+      "text": "Über uns",
+      "url": "/about"
     }
   ]
 }
