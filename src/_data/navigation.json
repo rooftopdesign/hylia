@@ -6,14 +6,17 @@
       "external": false
     },
     {
-      "text": "Work",
-      "url": "/work",
+      "text": "Refrenzen",
+      "url": "/refrenzen",
       "external": false
     },
     {
-      "text": "Example Contact Page",
-      "url": "/contact",
-      "external": false
+      "text": "Leistungen",
+      "url": "/Leistungen"
+    },
+    {
+      "text": "Kontakt",
+      "url": "/kontakt"
     }
   ]
 }
