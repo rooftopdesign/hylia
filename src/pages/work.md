@@ -9,10 +9,6 @@ tags:
 ---
  <!--more-->
 
-
-
-
-
 ## Zielbestimmung 
 
 Auftraggeber und Designer verständigen sich  über Anliegen, Inhalt und gewünschtes Ergebnis des Designauftrags. Es muss klar sein welche Designleistung wie dabei hilft, die Ziele des Auftraggebers bestmöglich und wirksam zu erreichen. Wir verstehen die Erfordernisse und Wirksamkeit der Designleisung für das Unternehmen.
