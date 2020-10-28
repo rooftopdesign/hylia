@@ -1,20 +1,18 @@
 ---
-title: "Der Designprozess als Teil Unternehmerischer Wertschöpfung."
-author: "Armin Rill"
-date: '2019-06-18'
+title: Der Designprozess als Teil Unternehmerischer Wertschöpfung.
+author: Armin Rill
+date: 2019-06-18
 tags:
   - demo-content
   - blog
   - media
 ---
- <!--more-->
-
-## Zielbestimmung 
+## Zielbestimmung
 
 Auftraggeber und Designer verständigen sich  über Anliegen, Inhalt und gewünschtes Ergebnis des Designauftrags. Es muss klar sein welche Designleistung wie dabei hilft, die Ziele des Auftraggebers bestmöglich und wirksam zu erreichen. Wir verstehen die Erfordernisse und Wirksamkeit der Designleisung für das Unternehmen.
 
-
 ## Recherche, Analyse & Synthese
+
 Es werden so viele relevante Informationen gesammelt und die Designentscheidung zu treffen.
 
 • Die Bedürfnisse des Auftraggebers sind bekannt.
@@ -43,15 +41,21 @@ Die gesammelten Informationen werden strukturiert, neu geordnet und bewertet und
 
 Ideen, die Schöpferische Leistung,  wird visualisiert, überprüft, ferfeinert
 • Darstellung und Präsentation in Form von Texten, Zeichnungen, Grafiken, Modellen, Storytelling. Der Entwurf wir als Prototyp realisiert und Qualität und Funktionalität getestet.
+
 ## Realisierung
+
 Der ausgewählte Entwurf wird umgesetzt. Modelle und Prototypen werden konstruiert.
 Alle Kommunikationsmittel werden erstellt, Websites und Apps programmiert, Texte geschrieben und Illustrationen gezeichnet.
 Experten aus anderen Disziplinen werden hinzugezogen . Nach einer Freigabe durch den Auftraggeber gehts in die Produktion, Druck,Weiterverarbeitung, Auslieferung.
 Website geht online.
+
 ## Evaluation und Inbetriebnahme
+
 Jeder Schritt im Designprozeß wird solange durchlaufen und mit der am Anfang festgelegten Anforderungen abgeglichen bis diese mit dem Ergebnis übereinstimmen zB. Usability testing.
 Das Design-Produkt oder Design Dienstleistungen sind am Markt angekommen und werden in der Praxis eingesetz und auf Tauglichkeit getestet.
+
 ## Designmanagement
+
 Design gewinnt auch in Unternehmen zunehmend an Bedeutung um auf lange Sicht gut dazustehen. Designmanagement ist auf lange Sicht  für den Erfolg von Produkten, Unternehmen und Marken mehr als simples koordinieren von Designprojekten.
 
 Wir beraten und moderieren als selbständiges und unabgängiges Büro - extern oder intern. Wir setzen uns konkret mit den Erfolgsvoraussetzungen und  Wirkung von Design auseinander und verknüpfen geschickt Unternehmens-, Marken- und Kommunikationsstategien mit Designstrategien.
